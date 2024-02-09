@@ -1,0 +1,335 @@
+{
+    "title": "RECORDER V1",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1124,
+            "height": 881,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://search.google.com/search-console/removals?resource_id=https%3A%2F%2Fledianmotos.com.ar%2F",
+                    "title": "Retirada de URLs"
+                }
+            ],
+            "url": "https://search.google.com/search-console/removals?resource_id=https%3A%2F%2Fledianmotos.com.ar%2F"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.uPZ4Rc span > span"
+                ],
+                [
+                    "xpath///*[@id=\"rMvdld\"]/div/div/div/div[1]/div/div[2]/div/span/span"
+                ],
+                [
+                    "pierce/div.uPZ4Rc span > span"
+                ],
+                [
+                    "text/Nueva solicitud"
+                ]
+            ],
+            "offsetX": 14.640625,
+            "offsetY": 8
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Nueva solicitud[role=\"dialog\"]",
+                    "aria/[role=\"textbox\"]"
+                ],
+                [
+                    "#c2"
+                ],
+                [
+                    "xpath///*[@id=\"c2\"]"
+                ],
+                [
+                    "pierce/#c2"
+                ]
+            ],
+            "offsetX": 481,
+            "offsetY": 41.5
+        },
+        {
+            "type": "change",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Nueva solicitud[role=\"dialog\"]",
+                    "aria/[role=\"textbox\"]"
+                ],
+                "#c2",
+                "xpath///*[@id=\"c2\"]",
+                "pierce/#c2"
+            ],
+            "value": "https://ledianmotos.com.ar/belarusian-brides-singles-sites-2/?5"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.XfpsVe > div.tWntE > span > span"
+                ],
+                [
+                    "xpath///*[@id=\"yDmH0d\"]/div[6]/div/div[2]/div[3]/div[2]/span/span"
+                ],
+                [
+                    "pierce/div.XfpsVe > div.tWntE > span > span"
+                ]
+            ],
+            "offsetX": 54.078125,
+            "offsetY": 7.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.XfpsVe > div:nth-of-type(2) > span > span"
+                ],
+                [
+                    "xpath///*[@id=\"yDmH0d\"]/div[6]/div/div[2]/div[3]/div[2]/span/span"
+                ],
+                [
+                    "pierce/div.XfpsVe > div:nth-of-type(2) > span > span"
+                ]
+            ],
+            "offsetX": 98.84375,
+            "offsetY": 15.5
+        },
+        {
+            "type": "waitForElement",
+            "timeout": 5000,
+            "selectors": [
+                "body"
+            ]
+        },
+        {
+            "type": "navigate",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://search.google.com/search-console/removals?resource_id=https%3A%2F%2Fledianmotos.com.ar%2F",
+                    "title": "Retirada de URLs"
+                }
+            ],
+            "url": "https://search.google.com/search-console/removals?resource_id=https%3A%2F%2Fledianmotos.com.ar%2F"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.uPZ4Rc span > span"
+                ],
+                [
+                    "xpath///*[@id=\"rMvdld\"]/div/div/div/div[1]/div/div[2]/div/span/span"
+                ],
+                [
+                    "pierce/div.uPZ4Rc span > span"
+                ],
+                [
+                    "text/Nueva solicitud"
+                ]
+            ],
+            "offsetX": 14.640625,
+            "offsetY": 8
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Nueva solicitud[role=\"dialog\"]",
+                    "aria/[role=\"textbox\"]"
+                ],
+                [
+                    "#c2"
+                ],
+                [
+                    "xpath///*[@id=\"c2\"]"
+                ],
+                [
+                    "pierce/#c2"
+                ]
+            ],
+            "offsetX": 481,
+            "offsetY": 41.5
+        },
+        {
+            "type": "change",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Nueva solicitud[role=\"dialog\"]",
+                    "aria/[role=\"textbox\"]"
+                ],
+                "#c2",
+                "xpath///*[@id=\"c2\"]",
+                "pierce/#c2"
+            ],
+            "value": "https://ledianmotos.com.ar/belarusian-brides-singles-sites-2/?6"
+        },
+                {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.XfpsVe > div.tWntE > span > span"
+                ],
+                [
+                    "xpath///*[@id=\"yDmH0d\"]/div[6]/div/div[2]/div[3]/div[2]/span/span"
+                ],
+                [
+                    "pierce/div.XfpsVe > div.tWntE > span > span"
+                ]
+            ],
+            "offsetX": 54.078125,
+            "offsetY": 7.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.XfpsVe > div:nth-of-type(2) > span > span"
+                ],
+                [
+                    "xpath///*[@id=\"yDmH0d\"]/div[6]/div/div[2]/div[3]/div[2]/span/span"
+                ],
+                [
+                    "pierce/div.XfpsVe > div:nth-of-type(2) > span > span"
+                ]
+            ],
+            "offsetX": 98.84375,
+            "offsetY": 15.5
+        },
+        {
+            "type": "waitForElement",
+            "timeout": 5000,
+            "selectors": [
+                "body"
+            ]
+        },
+        {
+            "type": "navigate",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://search.google.com/search-console/removals?resource_id=https%3A%2F%2Fledianmotos.com.ar%2F",
+                    "title": "Retirada de URLs"
+                }
+            ],
+            "url": "https://search.google.com/search-console/removals?resource_id=https%3A%2F%2Fledianmotos.com.ar%2F"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.uPZ4Rc span > span"
+                ],
+                [
+                    "xpath///*[@id=\"rMvdld\"]/div/div/div/div[1]/div/div[2]/div/span/span"
+                ],
+                [
+                    "pierce/div.uPZ4Rc span > span"
+                ],
+                [
+                    "text/Nueva solicitud"
+                ]
+            ],
+            "offsetX": 14.640625,
+            "offsetY": 8
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Nueva solicitud[role=\"dialog\"]",
+                    "aria/[role=\"textbox\"]"
+                ],
+                [
+                    "#c2"
+                ],
+                [
+                    "xpath///*[@id=\"c2\"]"
+                ],
+                [
+                    "pierce/#c2"
+                ]
+            ],
+            "offsetX": 481,
+            "offsetY": 41.5
+        },
+        {
+            "type": "change",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Nueva solicitud[role=\"dialog\"]",
+                    "aria/[role=\"textbox\"]"
+                ],
+                "#c2",
+                "xpath///*[@id=\"c2\"]",
+                "pierce/#c2"
+            ],
+            "value": "https://ledianmotos.com.ar/belarusian-brides-singles-sites-2/?7"
+        },
+                {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.XfpsVe > div.tWntE > span > span"
+                ],
+                [
+                    "xpath///*[@id=\"yDmH0d\"]/div[6]/div/div[2]/div[3]/div[2]/span/span"
+                ],
+                [
+                    "pierce/div.XfpsVe > div.tWntE > span > span"
+                ]
+            ],
+            "offsetX": 54.078125,
+            "offsetY": 7.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.XfpsVe > div:nth-of-type(2) > span > span"
+                ],
+                [
+                    "xpath///*[@id=\"yDmH0d\"]/div[6]/div/div[2]/div[3]/div[2]/span/span"
+                ],
+                [
+                    "pierce/div.XfpsVe > div:nth-of-type(2) > span > span"
+                ]
+            ],
+            "offsetX": 98.84375,
+            "offsetY": 15.5
+        },
+        {
+            "type": "waitForElement",
+            "timeout": 5000,
+            "selectors": [
+                "body"
+            ]
+        }
+    ]
+}
